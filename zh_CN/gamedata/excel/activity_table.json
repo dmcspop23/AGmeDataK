@@ -42,13 +42,13 @@
       "name": "空想花庭",
       "startTime": 1688616000,
       "endTime": 1689191999,
-      "rewardEndTime": 1687982399,
+      "rewardEndTime": 1689451199,
       "displayOnHome": true,
       "hasStage": true,
       "templateShopId": "shop_act26side",
       "medalGroupId": "medalGroupActivity26side",
       "ungroupedMedalIds": null,
-      "isReplicate": false,
+      "isReplicate": true,
       "needFixedSync": false
     },
     "act1signvs": {
