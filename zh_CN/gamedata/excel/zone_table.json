@@ -3651,12 +3651,12 @@
   },
   "zoneValidInfo": {
     "act32side_zone1": {
-      "startTs": 1709784000,
-      "endTs": 1710964799
+      "startTs": 1714579200,
+      "endTs": 1716566400
     },
     "act32side_zone2": {
-      "startTs": 1710403200,
-      "endTs": 1710964799
+      "startTs": 1714579200,
+      "endTs": 1716566400
     },
     "act4bossrush_zone1": {
       "startTs": 1708588800,
